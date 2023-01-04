@@ -6,7 +6,7 @@
 
 ## 👩🏻‍💻 I'm currently interested in
 - Deep Learning
-- Receommendation system
+- Recommender system
 - Graph Neural Network
 
 ## 📫 You can reach me using
