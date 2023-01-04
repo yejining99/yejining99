@@ -12,7 +12,7 @@
 ## 📫 You can reach me using
 - Email : kimyejin99@unist.ac.kr
 - Blog : https://yejining.tistory.com/
-- LinkedIn : https://www.linkedin.com/in/yejin-kim-213190259/
+- LinkedIn : https://www.linkedin.com/in/yejining99/
 
 
 <!--
