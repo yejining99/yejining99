@@ -5,7 +5,6 @@
 - B.S. in Industrial Engineering, UNIST (2018~2022)
 
 ## 👩🏻‍💻 I'm currently interested in
-- Deep Learning
 - Recommender system
 - Graph Neural Network
 
